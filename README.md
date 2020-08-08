@@ -1,5 +1,5 @@
 # UASWEB : https://uasingka.000webhostapp.com/index.html
-# NAMA : FAKHIRIYYAH MONINGKA DURU
+# NAMA : FAKHRIYYAH MONINGKA DURU
 # NIM  : 311810847
 # KELAS: TI.18.A.3
 
