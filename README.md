@@ -9,7 +9,7 @@
 ![Screenshot (54)](https://user-images.githubusercontent.com/45745911/89704426-dec7d900-d97d-11ea-9820-ea8b23e7757a.png)
 
 # APLIKASU CRUD
-![Screenshot (55)](https://user-images.githubusercontent.com/45745911/89704433-e38c8d00-d97d-11ea-9447-8b4d5df3971d.png
+![Screenshot (55)](https://user-images.githubusercontent.com/45745911/89704433-e38c8d00-d97d-11ea-9447-8b4d5df3971d.png)
 
 # MENU TAMBAH
 ![Screenshot (56)](https://user-images.githubusercontent.com/45745911/89704437-e7201400-d97d-11ea-8884-8e3d860130ad.png)
